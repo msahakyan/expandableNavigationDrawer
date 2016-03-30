@@ -14,7 +14,7 @@ import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.TextView;
 
-import com.android.msahakyan.expandablenavigationdrawer.adapter.CustomExpandableListAdapter;
+import com.msahakyan.expandablenavigationdrawer.lib.adapter.CustomExpandableListAdapter;
 import com.android.msahakyan.expandablenavigationdrawer.datasource.ExpandableListDataSource;
 
 import java.util.ArrayList;

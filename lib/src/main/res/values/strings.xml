@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">lib</string>
+	<string name="action_settings">Settings</string>
+	<string name="drawer_open">Open navigation drawer</string>
+	<string name="drawer_close">Close navigation drawer</string>
+	<string name="film_genres">Film genres</string>
+	<string name="website">https://en.wikipedia.org/wiki/Film</string>
+	<string name="date">22 Oct 2015</string>
+	<string name="selected_item">Selected item</string>
+
+
+</resources>

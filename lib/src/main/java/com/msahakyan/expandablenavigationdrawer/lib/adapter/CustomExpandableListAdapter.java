@@ -1,4 +1,4 @@
-package com.android.msahakyan.expandablenavigationdrawer.adapter;
+package com.msahakyan.expandablenavigationdrawer.lib.adapter;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
 
-import com.android.msahakyan.expandablenavigationdrawer.R;
+import com.msahakyan.expandablenavigationdrawer.lib.R;
 
 import java.util.List;
 import java.util.Map;
@@ -36,9 +36,7 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
 
     @Override
     public long getChildId(int listPosition, int expandedListPosition) {
-        return expandedListPosition;
-    }
-
+        return expande
     @Override
     public View getChildView(int listPosition, final int expandedListPosition,
                              boolean isLastChild, View convertView, ViewGroup parent) {
