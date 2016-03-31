@@ -13,9 +13,10 @@ In app you can see integrated navigation drawer with items containing different 
 
 ```java
 dependencies {
-        
+        compile 'com.msahakyan.expandablenavigationdrawer.lib:lib:1.0.0'      
 }
 ```
+[How to use, see the demo app] : https://github.com/pa1pal/expandable-navigation-drawer/tree/library/app/src/main
 
 #Screenshots
 <img src="https://raw.githubusercontent.com/pa1pal/expandable-navigation-drawer/library/Screenshots/video.gif" width="300px" height="510px"></img>
